@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Sebastian's Digital Portfolio</title>
-        <link rel="stylesheet" href="css/style_2.css">
+        <link rel="stylesheet" href="css/style.css">
         <link rel="icon" href="img/favicon.ico">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,7 +11,7 @@
         <div class="container">
             <header>
                 <div class="logo">
-                <img src="img/logotest.png">
+                <img src="img/logo.png">
                 </div>
             </header>
            <div class="left">
